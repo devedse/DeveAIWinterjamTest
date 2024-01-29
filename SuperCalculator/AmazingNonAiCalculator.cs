@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace SuperCalculator
     {
         public int Add(int a, int b)
         {
-            return a * b;
+            return a + b;
         }
 
         public int Substract(int a, int b)
