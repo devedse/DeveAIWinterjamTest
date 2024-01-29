@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculator", "SuperCalculator\SuperCalculator.csproj", "{EC14BA14-7FAB-42C8-9C02-CB761C74ACA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCalculator.Tests", "SuperCalculator.Tests\SuperCalculator.Tests.csproj", "{3B0336B4-929D-4569-9468-E4DBE568A91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC14BA14-7FAB-42C8-9C02-CB761C74ACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC14BA14-7FAB-42C8-9C02-CB761C74ACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC14BA14-7FAB-42C8-9C02-CB761C74ACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC14BA14-7FAB-42C8-9C02-CB761C74ACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0336B4-929D-4569-9468-E4DBE568A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0336B4-929D-4569-9468-E4DBE568A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0336B4-929D-4569-9468-E4DBE568A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0336B4-929D-4569-9468-E4DBE568A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7157FA-DA2C-4A81-A0CA-0A935926834C}
+	EndGlobalSection
+EndGlobal
